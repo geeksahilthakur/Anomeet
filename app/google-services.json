@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209091662438",
+    "project_id": "anomeet-cd329",
+    "storage_bucket": "anomeet-cd329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209091662438:android:6c135256559a32cdd253a7",
+        "android_client_info": {
+          "package_name": "com.geek.anomeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209091662438-qs79og3efrlcofbimnvhe78fog6lb8jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geek.anomeet",
+            "certificate_hash": "0418a78325874f299e615071e8c0f5bc25d033fd"
+          }
+        },
+        {
+          "client_id": "209091662438-v2at4rf8uem0377fi5nllftgt2bdf900.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuzWOpjZqXh2aKtx2ZqJmYk5wSKwgOeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209091662438-v2at4rf8uem0377fi5nllftgt2bdf900.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
